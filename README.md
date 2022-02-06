@@ -12,4 +12,4 @@ This observer is based on the following thesis:
 
 
 <b>Copyright</b>: The content of this repository is freely available, but publication (with reference) may only be pursued due to
-agreement with the author. <b>In any case, please contact me !</b>
+agreement with the author. <b>In any case, please contact me!</b>
