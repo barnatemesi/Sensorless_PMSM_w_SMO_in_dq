@@ -1,7 +1,7 @@
 # Sensorless_PMSM_w_SMO_in_dq
 Sensorless control of an SPMSM motor using a first-order sliding mode observer established in dq-reference frame instead of afabeta-reference frame. This observer uses a less complex filtering structure than the observer implmeneted in afabeta-reference frame. Also, the added phase-lag is very minimal in comparison. 
 
-It was implemented in MATLAB/Simulink 2018b.
+It was implemented in MATLAB/Simulink 2018b. Release version is v2. v3 is the beta / in development version.
 
 A short design documentation (including the proof of stability) is also attached.
 
